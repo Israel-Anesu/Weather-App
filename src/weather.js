@@ -20,5 +20,4 @@ async function getWeatherInfo(cityName) {
         console.error(error);
     }
 }
-
 export default getWeatherInfo;
